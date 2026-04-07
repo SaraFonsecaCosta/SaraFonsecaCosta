@@ -4,7 +4,7 @@ I'm a bioinformatician with over 10 years of experience in omics data analysis, 
 I have experience in data integration, analytics, and modeling, contributing to diverse translational research and systems biology initiatives. My technical proficiency includes R, Python, SQL, and other programming languages, as well as workflow management tools such as Nextflow and Snakemake. I'm also experienced at working in cloud-based and high-performance computing (HPC) environments.
 I am committed to advancing data quality, interoperability, and scalability in bioinformatics systems.
 
-## 💼 Academic percourse 
+## 💼 Academic Background
 
 I obtained my Master’s degree in Bioinformatics from the University of Minho in Portugal, and completed my Master’s thesis at the University of Geneva in Switzerland. I subsequently obtained my PhD from the University of Fribourg, Switzerland, in the [Urs](https://www.unifr.ch/bio/en/groups/albrecht/) group, working under the supervision of Dr. Jürgen Ripperger and in close collaboration with the [Wegmann](https://www.unifr.ch/bio/en/research/bioinformatics/wegmann.html) group, where my research focused on bioinformatics and computational modeling to infer photoperiod and age-related changes in circadian oscillators.
 
@@ -18,4 +18,4 @@ Following my PhD, I pursued a postdoctoral position in the [Marc Robinson-Rechav
 
 ## 📚 CV
 
-You can found my CV [here](https://github.com/SFonsecaCosta/SFonsecaCosta/blob/master/CV.pdf).
+You can found my CV [here](https://github.com/SaraFonsecaCosta/SaraFonsecaCosta/blob/master/CV.pdf).
