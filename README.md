@@ -15,7 +15,3 @@ Following my PhD, I pursued a postdoctoral position in the [Marc Robinson-Rechav
 - [LinkedIn](https://www.linkedin.com/in/sara-fonseca-costa-87801572)
 - [Professional E-mail](sara.fonsecacosta[at]novigenix.com)
 - [Personal E-mail](essepf[at]gmail.com)
-
-## 📚 CV
-
-You can found my CV [here](https://github.com/SaraFonsecaCosta/SaraFonsecaCosta/blob/master/CV.pdf).
